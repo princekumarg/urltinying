@@ -6,7 +6,7 @@ const Url = require('../models/urlModel')
 //add baseUrl as url of website where you host the website + /urlapi
 //baseUrl is http://localhost:PORT/urlapi/ when running locally
 
-const baseUrl = "http://https://mywebapp-ekni.onrender.com/urlapi/"
+const baseUrl = "https://mywebapp-ekni.onrender.com/urlapi/"
 
 
 const createDB = require('../config/db');
