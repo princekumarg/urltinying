@@ -4,6 +4,8 @@
 
 This project is a URL Shortener application built using modern web technologies. The main goal is to provide users with a simple and efficient way to shorten long URLs and manage them.
 
+## demo
+<img width="1079" alt="image" src="https://github.com/princekumarg/urltinying/assets/86905668/6e038be2-7395-41f4-bdcc-cbf7f9deea6f">
 ## Features
 
 - Shorten long URLs
@@ -19,22 +21,7 @@ This project is a URL Shortener application built using modern web technologies.
 - **Backend**: Node.js, Express.js
 - **Database**: Sqlite
 
-## Installation
-
-### Prerequisites
-
-- Node.js
-- sqlite
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/urltinying
-cd urltinying
-```
-
-
-
+## System Desgine
 <img width="618" alt="image" src="https://github.com/princekumarg/urltinying/assets/86905668/dc9bff77-3d77-49e3-a055-3a931c7656ac">
 
 <img width="620" alt="image" src="https://github.com/princekumarg/urltinying/assets/86905668/b325301e-aa85-440c-bd96-6a63ea4fe1a6">
@@ -56,4 +43,20 @@ cd urltinying
 
 <img width="620" alt="image" src="https://github.com/princekumarg/urltinying/assets/86905668/b65027ce-fca7-4f1b-94a6-54180ff65a7a">
 
-<img width="1079" alt="image" src="https://github.com/princekumarg/urltinying/assets/86905668/6e038be2-7395-41f4-bdcc-cbf7f9deea6f">
+### Prerequisites
+
+- Node.js
+- sqlite
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/urltinying
+cd urltinying
+```
+
+
+
+
+
+
