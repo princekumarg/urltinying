@@ -54,8 +54,28 @@ This project is a URL Shortener application built using modern web technologies.
 git clone https://github.com/yourusername/urltinying
 cd urltinying
 ```
+### Future Enhancements
+
+- **URL Expiry**: Add functionality to set expiry dates for shortened URLs.
+- **Custom Domains**: Allow users to use their own custom domains for shortened URLs.
+- **QR Code Generation**: Generate QR codes for each shortened URL.
+- **Analytics Dashboard**: Provide detailed analytics including geographical location, device type, and referral sources.
+- **Browser Extensions**: Develop browser extensions for Chrome, Firefox, and other popular browsers to shorten URLs directly from the browser.
+- **Mobile App**: Create a mobile app version of the URL shortener for iOS and Android.
+- **Batch URL Shortening**: Allow users to shorten multiple URLs at once.
+- **Enhanced Security**: Implement features like reCAPTCHA to prevent abuse and spam.
+- **User Roles and Permissions**: Introduce different user roles and permissions for more granular control.
+- **API Rate Limiting**: Implement rate limiting for the API to prevent abuse.
+- **Internationalization**: Add support for multiple languages.
 
 
+### Contributor
+
+- [Prince Kumar](https://github.com/princekumarg)
+
+### Depolyment
+
+- [Live Demo](https://chating-app-qftk.vercel.app/)
 
 
 
